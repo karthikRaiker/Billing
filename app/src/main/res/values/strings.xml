@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bill</string>
+    <string name="penalty_heading"><u>PENALTY</u>.</string>
+</resources>
